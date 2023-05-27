@@ -1,0 +1,110 @@
+container 1: max 25 : now 24
+container 2: max 30 : now 26
+container 3: max 825 : now 820
+container 4: max 1000 : now 9
+
+container 1: max 25 : now 24
+container 2: max 30 : now 25
+container 3: max 825 : now 821
+container 4: max 1000 : now 9
+
+container 1: max 25 : now 23
+container 2: max 30 : now 26
+container 3: max 825 : now 821
+container 4: max 1000 : now 9
+
+container 1: max 25 : now 23
+container 2: max 30 : now 26
+container 3: max 825 : now 820
+container 4: max 1000 : now 10
+
+container 1: max 25 : now 23
+container 2: max 30 : now 25
+container 3: max 825 : now 821
+container 4: max 1000 : now 10
+
+container 1: max 25 : now 22
+container 2: max 30 : now 26
+container 3: max 825 : now 821
+container 4: max 1000 : now 10
+
+container 1: max 25 : now 22
+container 2: max 30 : now 25
+container 3: max 825 : now 822
+container 4: max 1000 : now 10
+
+container 1: max 25 : now 21
+container 2: max 30 : now 26
+container 3: max 825 : now 822
+container 4: max 1000 : now 10
+
+container 1: max 25 : now 21
+container 2: max 30 : now 26
+container 3: max 825 : now 821
+container 4: max 1000 : now 11
+
+container 1: max 25 : now 21
+container 2: max 30 : now 25
+container 3: max 825 : now 822
+container 4: max 1000 : now 11
+
+container 1: max 25 : now 20
+container 2: max 30 : now 26
+container 3: max 825 : now 822
+container 4: max 1000 : now 11
+
+container 1: max 25 : now 20
+container 2: max 30 : now 25
+container 3: max 825 : now 823
+container 4: max 1000 : now 11
+
+container 1: max 25 : now 19
+container 2: max 30 : now 26
+container 3: max 825 : now 823
+container 4: max 1000 : now 11
+
+container 1: max 25 : now 19
+container 2: max 30 : now 26
+container 3: max 825 : now 822
+container 4: max 1000 : now 12
+
+container 1: max 25 : now 19
+container 2: max 30 : now 25
+container 3: max 825 : now 823
+container 4: max 1000 : now 12
+
+container 1: max 25 : now 18
+container 2: max 30 : now 26
+container 3: max 825 : now 823
+container 4: max 1000 : now 12
+
+container 1: max 25 : now 18
+container 2: max 30 : now 25
+container 3: max 825 : now 824
+container 4: max 1000 : now 12
+
+container 1: max 25 : now 17
+container 2: max 30 : now 26
+container 3: max 825 : now 824
+container 4: max 1000 : now 12
+
+container 1: max 25 : now 17
+container 2: max 30 : now 26
+container 3: max 825 : now 823
+container 4: max 1000 : now 13
+
+container 1: max 25 : now 17
+container 2: max 30 : now 25
+container 3: max 825 : now 824
+container 4: max 1000 : now 13
+
+container 1: max 25 : now 16
+container 2: max 30 : now 26
+container 3: max 825 : now 824
+container 4: max 1000 : now 13
+
+container 1: max 25 : now 16
+container 2: max 30 : now 25
+container 3: max 825 : now 825
+container 4: max 1000 : now 13
+
